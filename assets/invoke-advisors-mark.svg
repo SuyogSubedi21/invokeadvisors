@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Invoke Advisors mark</title>
+  <rect x="6.5" y="6.5" width="51" height="51" fill="#ffffff" stroke="#26364d" stroke-width="3"/>
+  <path d="M20.5 18.5v27" fill="none" stroke="#050b16" stroke-width="4" stroke-linecap="square"/>
+  <path d="M31.5 45.5 41 18.5l9.5 27" fill="none" stroke="#050b16" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M36.5 36.5h9.5" fill="none" stroke="#26364d" stroke-width="3" stroke-linecap="square"/>
+  <path d="M16 51h32" fill="none" stroke="#26364d" stroke-width="2" stroke-linecap="square" opacity=".72"/>
+</svg>

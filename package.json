@@ -1,0 +1,37 @@
+{
+  "name": "invoke-advisors-website",
+  "version": "1.0.0",
+  "description": "Professional website for Invoke Advisors - accounting, tax, compliance, and advisory services",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 8000 -c-1",
+    "dev": "http-server -p 8000 -c-1 --cors",
+    "build": "echo 'Static site - no build needed'",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "accounting",
+    "consulting",
+    "chartered-accountants",
+    "tax-planning",
+    "financial-advisory",
+    "Nepal",
+    "Kathmandu"
+  ],
+  "author": "Invoke Advisors",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/invoke-advisory-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/invoke-advisory-website/issues"
+  },
+  "homepage": "https://www.invokeadvisors.com"
+}

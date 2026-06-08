@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 82" role="img" aria-labelledby="title desc">
+  <title id="title">Invoke Advisors</title>
+  <desc id="desc">Invoke Advisors chartered accounting and advisory logo</desc>
+  <rect x="2.5" y="10.5" width="59" height="59" fill="#ffffff" stroke="#26364d" stroke-width="3"/>
+  <path d="M19 24v32" fill="none" stroke="#050b16" stroke-width="4.5" stroke-linecap="square"/>
+  <path d="M32 56 43 24l11 32" fill="none" stroke="#050b16" stroke-width="4.5" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M38 45h11" fill="none" stroke="#26364d" stroke-width="3.5" stroke-linecap="square"/>
+  <path d="M14 62h36" fill="none" stroke="#26364d" stroke-width="2" stroke-linecap="square" opacity=".72"/>
+  <text x="82" y="39" fill="#050b16" font-family="IBM Plex Sans, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="0">Invoke Advisors</text>
+  <text x="83" y="59" fill="#364152" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.7">CHARTERED ACCOUNTING &amp; ADVISORY</text>
+</svg>

@@ -1,0 +1,53 @@
+{
+  "site": {
+    "title": "Invoke Advisors",
+    "tagline": "Chartered Accounting & Advisory",
+    "description": "Professional accounting, tax advisory, compliance, audit support, and business advisory services.",
+    "keywords": [
+      "chartered accounting",
+      "tax advisory",
+      "compliance",
+      "audit support",
+      "financial reporting",
+      "business advisory"
+    ]
+  },
+  "company": {
+    "name": "Invoke Advisors",
+    "businessType": "Chartered accounting, financial consulting, tax advisory, compliance, audit support, and business advisory firm",
+    "description": "Invoke Advisors supports businesses with reliable financial insight, compliance guidance, and practical advisory solutions."
+  },
+  "contact": {
+    "phone": "+977-98XXXXXXXX",
+    "email": "contact@invokeadvisors.com",
+    "address": {
+      "city": "Kathmandu",
+      "country": "Nepal"
+    }
+  },
+  "services": [
+    "Tax Advisory",
+    "Audit & Assurance Support",
+    "Accounting & Bookkeeping",
+    "Business Advisory",
+    "Company Registration",
+    "Compliance Management",
+    "Financial Reporting",
+    "Internal Control Review"
+  ],
+  "seo": {
+    "siteName": "Invoke Advisors",
+    "siteUrl": "https://www.invokeadvisors.com",
+    "canonicalUrl": "https://www.invokeadvisors.com",
+    "language": "en",
+    "robots": "index, follow",
+    "author": "Invoke Advisors"
+  },
+  "design": {
+    "style": "Trust & Authority",
+    "primary": "#0f172a",
+    "secondary": "#334155",
+    "accent": "#26364d",
+    "background": "#f8fafc"
+  }
+}
